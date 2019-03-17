@@ -1,8 +1,5 @@
 
-<html>
-  <head>
-    <title>Sean's Profile</title>
-  </head>
+
   <body>
     <h1>Profile</h1>
     <ul>
